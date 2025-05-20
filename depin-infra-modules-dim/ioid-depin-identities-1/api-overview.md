@@ -1,14 +1,16 @@
 # API Overview
 
-{% hint style="warning" %}
-#### API Availability Notice
+The **ioID API** allows projects and developers to programmatically register, bind and manage ioID identities for machines. These endpoints support the full lifecycle of an ioID, from generation to ownership binding and data submission.
 
-Important: The APIs described in this document are for reference only. They represent the intended design and functionality of the ioID platform but are not yet live or operational.
+Use the API to:
 
-Please do not attempt to integrate or use these endpoints in production environments. We will update this documentation once the APIs are deployed and stable.
-{% endhint %}
+* Create an ioID for a new device using a unique serial or hardware identifier
+* Bind a device’s ioID on-chain identity to an owner’s wallet
+* Upload verifiable data and activity metrics for indexing and analytics on depinscan.io
 
-* **Generate an ioID for a device**
+All API requests require authentication with your project’s API key (available after registration on [depinscan.io](https://depinscan.io)).
+
+### **Generate an ioID for a device**
 
 ```
 POST /api/v1/ioid/generate
@@ -21,7 +23,7 @@ POST /api/v1/ioid/generate
 }
 ```
 
-* **Bind an ioID to the owner's wallet**
+### **Bind an ioID to the owner's wallet**
 
 ```
 POST /api/v1/ioid/owner/bind
@@ -37,7 +39,7 @@ POST /api/v1/ioid/owner/bind
 }
 ```
 
-* **Upload device metrics**
+### **Upload device metrics**
 
 ```
 POST /api/upload-device-metrics

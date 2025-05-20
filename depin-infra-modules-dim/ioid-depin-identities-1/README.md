@@ -1,44 +1,21 @@
----
-hidden: true
----
+# \[ioID] DePIN Identities
 
-# \[ioID] DePIN Identities - Initial Draft
+{% hint style="warning" %}
+⚠️ Note: This documentation for ioID is actively being updated. Check back soon for updates or [reach out](../../participate/get-in-touch.md) if you have questions or feedback!
+{% endhint %}
 
-## Introduction
+IoID is a decentralized identity framework purpose-built to **establish trust in the machine economy**, enabling smart agents and **physical AI** to interact securely and autonomously.&#x20;
 
-**ioID** is a decentralized identity infrastructure designed for the machine economy. It provides globally unique, metadata-rich identifiers, programmable multi-chain wallets, and secure messaging for physical devices, enabling interoperability, financial automation, and data verifiability across ecosystems like DePIN, AI, and IoT.
+IoID includes both on-chain and off-chain components:
 
-## Core Concepts
+{% hint style="info" %}
+**On-Chain Identity**:&#x20;
 
-### ioID&#x20;
+Each machine is represented by an NFT-bound smart contract wallet, enabling it to manage digital assets, receive rewards, and participate in decentralized applications (dApps) and DeFi protocols.
 
-A decentralized identity (DID) assigned to a physical machine.&#x20;
+**Off-Chain Identity**:&#x20;
 
-Format: `did:io:<identifier>`
+ioID integrates self-sovereign identity (SSI) standards—including decentralized identifiers (DIDs) and verifiable credentials (VCs)—to support secure, privacy-preserving communication between machines and humans (M2P) or other machines (M2M).
+{% endhint %}
 
-### **DID Document (DID Doc)**
-
-Metadata JSON stored somewhere (e.g., on IPFS) with keys, geolocation, ownership, and access policies.
-
-### **Machine-Bound Account (MBA)**
-
-An ERC-6551-inspired smart wallet linked to each ioID-enabled device for on-chain actions.
-
-### **Device NFT**
-
-ERC-721 token representing ownership and linking to ioID/MBA.
-
-## **Services Enabled by ioID**
-
-* Incentives Distribution on-chain
-* Token Staking
-* Proof-of-Liveness
-* Device Financing & Lending
-* Device Discovery via depinscan.io
-
-## Use Cases
-
-* Autonomous drones earning tokens via their MBA
-* Weather stations reporting data + staking
-* AI agents verifying data origin
-* Community-owned edge devices sharing rewards
+This section of the documentation covers the concepts, architecture, and integration details of ioID, along with use cases and practical guidance for developers integrating decentralized identity into machine-based applications.

@@ -25,4 +25,4 @@ ERC-4337 runs on top of the blockchain and does not require any changes to the b
 
 The blockchain also supports ioID identities, providing a secure and verified identity system that integrates seamlessly with various DePIN projects and applications.
 
-[↗ Learn more about ioID](../../ioid-depin-identities/)
+[↗ Learn more about ioID](../../ioid-depin-identities-v1/)

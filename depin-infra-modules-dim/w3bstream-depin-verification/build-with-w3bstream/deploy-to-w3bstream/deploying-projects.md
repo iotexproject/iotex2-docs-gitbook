@@ -9,7 +9,7 @@ When your W3bstream project file is ready, you need to deploy it to the IoTeX bl
 
 Ensure you have registered a DePIN project NFT on the IoTeX Blockchain and you are using the wallet account that owns the project NFT.
 
-[→ Learn how to obtain a DePIN project NFT](../../../ioid-depin-identities/integration-guide/register-a-depin-project.md)&#x20;
+[→ Learn how to obtain a DePIN project NFT](../../../ioid-depin-identities-v1/integration-guide/register-a-depin-project.md)&#x20;
 {% endhint %}
 
 ## Register your DePIN Project in W3bstream

@@ -1,4 +1,4 @@
-# \[W3bstream]  DePIN Verification
+# \[W3bstream] DePIN Verification
 
 ## **The DePIN Verification Problem**
 
@@ -10,7 +10,7 @@ Decentralized Physical Infrastructure Networks (DePIN) face unique challenges in
 
 W3bstream is an off-chain verifiable compute protocol designed by IoTeX to address the verification challenges in DePIN. Based on multi-prover technology, W3bstream ensures flexible and scalable verification of off-chain computations, mitigating risks like self-dealing, lazy providers, and malicious responses.
 
-Combined with [ioID, IoTeX's unique identity system for DePINs](../ioid-depin-identities/), W3bstream forms a robust infrastructure that ensures trust and integrity within DePIN ecosystems, enabling trusted and secure management of decentralized physical infrastructures.
+Combined with [ioID, IoTeX's unique identity system for DePINs](../ioid-depin-identities-v1/), W3bstream forms a robust infrastructure that ensures trust and integrity within DePIN ecosystems, enabling trusted and secure management of decentralized physical infrastructures.
 
 {% hint style="info" %}
 **Further readings**

@@ -1,13 +1,21 @@
----
-hidden: true
----
+# \[ioID] DePIN Identities
 
-# \[ioID] DePIN Identities - V1
-
-{% hint style="info" %}
-**ioID**, designed by IoTeX, is a unified identity system that utilizes blockchain wallet addresses (both EOA and AA wallets) as **on-chain identities** and DIDs as **off-chain identities**. It is designed to effectively manage both on-chain and off-chain digital relationships among participants in DePIN applications.
+{% hint style="warning" %}
+⚠️ Note: This documentation for ioID is actively being updated. Check back soon for updates or [reach out](../../participate/get-in-touch.md) if you have questions or feedback!
 {% endhint %}
 
-As a general-purpose identity system, ioID could be utilized in different layers of the DePIN modular infrastructure, as shown in the figure below:
+IoID is a decentralized identity framework purpose-built to **establish trust in the machine economy**, enabling smart agents and **physical AI** to interact securely and autonomously.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+IoID includes both on-chain and off-chain components:
+
+{% hint style="info" %}
+**On-Chain Identity**:&#x20;
+
+Each machine is represented by an NFT-bound smart contract wallet, enabling it to manage digital assets, receive rewards, and participate in decentralized applications (dApps) and DeFi protocols.
+
+**Off-Chain Identity**:&#x20;
+
+ioID integrates self-sovereign identity (SSI) standards—including decentralized identifiers (DIDs) and verifiable credentials (VCs)—to support secure, privacy-preserving communication between machines and humans (M2P) or other machines (M2M).
+{% endhint %}
+
+This section of the documentation covers the concepts, architecture, and integration details of ioID, along with use cases and practical guidance for developers integrating decentralized identity into machine-based applications.

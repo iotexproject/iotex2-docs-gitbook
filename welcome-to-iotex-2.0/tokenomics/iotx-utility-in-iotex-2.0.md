@@ -12,7 +12,7 @@ IOTX tokens are still being used for rewarding Delegate nodes for validating L1 
 
 #### New L1 Utility
 
-In IoTeX 2.0, device owners will burn IOTX to register their devices on the IoTeX L1 and receive [ioIDs](../../depin-infra-modules-dim/ioid-depin-identities/), establishing a trusted anchor for participating in DePINs. Additionally, the IoTeX L1 will utilize a DAO, allowing token-holders to vote on the allocation of network incentives to various initiatives. This aims to drive the onboarding of new devices, DePINs, Dapps, and users, thereby increasing the utility of IOTX through burning, staking, and spending.
+In IoTeX 2.0, device owners will burn IOTX to register their devices on the IoTeX L1 and receive [ioIDs](../../depin-infra-modules-dim/ioid-depin-identities-v1/), establishing a trusted anchor for participating in DePINs. Additionally, the IoTeX L1 will utilize a DAO, allowing token-holders to vote on the allocation of network incentives to various initiatives. This aims to drive the onboarding of new devices, DePINs, Dapps, and users, thereby increasing the utility of IOTX through burning, staking, and spending.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeyHCfvTehbY6dGgKDOAma3LvqLviBWUSm0GWNH_-8-3s5yGyqSKEgD0-elOIQ3P4Kzfmboa5YcHsFBM6pkTC36-X8WcQktbNqoJXc3GzYpw_7DMdQn3RrpucjXyRKOu6TLs8nljURHLUO6l6rUrEFN6itd?key=xRhwvsy-gk4_S1iqjhFKlQ" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 The diagram below outlines the key stages for integrating ioID into a DePIN project—starting from one-time project registration, through device identity provisioning, to real-time data and DeFi interaction.
 
-<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption><p>Integration Workflow</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption><p>ioID integration flow</p></figcaption></figure>
 
 {% hint style="success" %}
 **Developers Quick Start** coming soon.

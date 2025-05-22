@@ -69,7 +69,7 @@
     * [Register a Device](depin-infra-modules-dim/ioid-depin-identities-v1/integration-guide/register-a-device.md)
     * [ioID Smart contracts quick reference](depin-infra-modules-dim/ioid-depin-identities-v1/integration-guide/ioid-smart-contracts.md)
 * [\[ioID\] DePIN Identities](depin-infra-modules-dim/ioid-depin-identities/README.md)
-  * [Design Goals of ioID](depin-infra-modules-dim/ioid-depin-identities/design-goals-of-ioid.md)
+  * [Why ioID?](depin-infra-modules-dim/ioid-depin-identities/why-ioid.md)
   * [System Architecture](depin-infra-modules-dim/ioid-depin-identities/system-architecture.md)
   * [Integrating ioID](depin-infra-modules-dim/ioid-depin-identities/integrating-ioid.md)
   * [Example Use Cases](depin-infra-modules-dim/ioid-depin-identities/example-use-cases.md)

@@ -113,12 +113,6 @@ Take note of your `Project ID` and set it as an environment variable:
 export PROJECT_ID=YOUR_PROJECT_ID
 ```
 
-Bind the Device NFT to your Project ID
-
-```
-ioctl ioid device $DEVICE_NFT -p $PROJECT_ID
-```
-
 Reserve a few ioID for your project (10 in the example command below):
 
 ```

@@ -4,7 +4,7 @@
 
 The ioID identifier is a DID structured as `did:io:identifier_string`. The `identifier_string` is derived from a unique `project_name` and `project_specific_device_identifier`(e.g., serial number, IMEI, MAC address, etc.).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **ioID identifier Example**: did:io:5RJ1UfUCLX68KeFMmuvaVsm6m5Y7yH1bkF5CC4WpHXxa
 
@@ -271,7 +271,7 @@ interface ExecutionDelegation {
 
 The figure below demonstrates a typical workflow of how on‐chain rewards from a third‐party “Rewards Dapp” can be automatically re‑staked into a separate “Staking Dapp” via an off‑chain “Auto‑staking Service” and an MBA wallet module.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The auto-staking process consists of the following five steps:
 

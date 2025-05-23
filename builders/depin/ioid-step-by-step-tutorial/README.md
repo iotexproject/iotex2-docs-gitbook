@@ -162,7 +162,7 @@ The same process can be performed using the [ioID Web Tools](https://hub.iotex.i
 * Identify your project id on the IoTeX Hub
 * Select `Set Device Contract → Deploy Device Contract` from the Project's actions menu
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. Device registration
 

@@ -59,7 +59,7 @@ To connect with your account on the IoTeX Ledger app follow the steps below:
 
 5. Select your Ledger from the browser list of connected devices:
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you connected your Ledger wallet to the IoTeX Hub you'll be able to check your wallet address, balance as well as manage your assets and interact with Dapps available on the Hub Portal:
 

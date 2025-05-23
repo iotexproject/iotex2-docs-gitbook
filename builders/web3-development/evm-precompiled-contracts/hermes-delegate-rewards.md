@@ -26,7 +26,7 @@ All distributions are performed **on-chain** via a smart contract, ensuring tran
 
 Delegates that utilize the HERMES system can be easily identified on the **IoTeX Staking Portal** by a small "wing" icon displayed next to their name. This visual marker helps voters quickly recognize which delegates are using the HERMES system for reward distribution.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Accessing Distribution Reports
 

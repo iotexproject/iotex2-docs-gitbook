@@ -24,7 +24,7 @@ This upgrade transitions each Pebble device identity, already registered on the 
 
 2. If your device is turned on, **turn it off** by pressing the `Power/Confirm` button and keeping it pressed until the status LED flashes green:
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Press and keep pressing the `Up Arrow` button, then press and release the `Power/Confirm` button (while keeping the Up Arrow still pressed):
 

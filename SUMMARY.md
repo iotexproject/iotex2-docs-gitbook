@@ -71,6 +71,7 @@
 * [\[ioID\] DePIN Identities](depin-infra-modules-dim/ioid-depin-identities/README.md)
   * [Why ioID?](depin-infra-modules-dim/ioid-depin-identities/why-ioid.md)
   * [System Architecture](depin-infra-modules-dim/ioid-depin-identities/system-architecture.md)
+  * [Technical Specification](depin-infra-modules-dim/ioid-depin-identities/technical-specification.md)
   * [Integrating ioID](depin-infra-modules-dim/ioid-depin-identities/integrating-ioid.md)
   * [Example Use Cases](depin-infra-modules-dim/ioid-depin-identities/example-use-cases.md)
   * [API Overview](depin-infra-modules-dim/ioid-depin-identities/api-overview.md)

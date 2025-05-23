@@ -45,7 +45,7 @@ ioctl jwt sign --with-arguments '{
 }' -s ACCOUNT_NAME
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [→ Read more about the ioctl jwt command ](../../reference-docs/ioctl-client/jwt-auth-tokens.md#use-ioctl-to-issue-jwt)
 

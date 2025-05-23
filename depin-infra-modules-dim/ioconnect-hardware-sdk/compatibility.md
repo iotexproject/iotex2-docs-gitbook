@@ -4,7 +4,7 @@
 
 The ioConnect SDK aims to support a wide range of embedded systems, not limited to specific device types. To this end, the SDK is architected with a core framework (CF) and a platform adaption layer (PAL). As the foundation of the SDK, the CF abstracts common functionalities that are independent of the development platform or environment. On the other hand, the PAL adapts to different embedded systems and communities, differentiating the specific functionalities of each platform. For example, Arduino tends to use C++ classes, while the ESP32 community prefers traditional API implementation styles. Moreover, both communities have significant differences in MQTT implementation and usage. However, the SDK can accommodate the implementation methods of each community, including the community’s compilation rules, coding conventions, framework designs, etc.Each PAL component provides the following advantages:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Layered Architecture in ioID-SDK</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Layered Architecture in ioID-SDK</p></figcaption></figure>
 
 * With support and adaptation from embedded communities, the SDK can support a wider range of IoT hardware. For example, the SDK currently supports the Arduino community. As a result, any hardware platform supported by Arduino can be supported by the SDK.
 * Reduces the development complexity and cycle of the entire SDK. After extensive testing and verification, the platform adaptation layer code for each community is limited to around 300 to 500 lines.

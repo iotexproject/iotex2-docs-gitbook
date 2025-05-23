@@ -62,13 +62,13 @@ Developers can also deploy an ioID proxy contract and manage it interactively on
 * Browse the [ioID Web Tools on the IoTeX Hub](../../../welcome-to-iotex-2.0/tokenomics/)
 * Select the Advanced tab:
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click the `Deploy VerifyingProxy Contract` button to deploy a new Proxy contract, or
 * Click the `Import VerifyingProxy Address` button to import an already deployed Proxy
 * Provice the required information then click `Confirm`
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Interact with the Proxy contract
 

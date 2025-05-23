@@ -118,7 +118,7 @@ To integrate `$IOTX` deposits:
 
 </details>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Example UI for $IOTX deposit flow on the IoTeX Blockchain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example UI for $IOTX deposit flow on the IoTeX Blockchain</p></figcaption></figure>
 
 ### Withdrawal Flow
 

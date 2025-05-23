@@ -25,4 +25,4 @@ Check out the video in the previous section for a visual guidance:
 
 Inside the Pebble USB tool, wait for the status bar to show the "_Pebble Connected"_ message and then click "**Fetch PubKey**"
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

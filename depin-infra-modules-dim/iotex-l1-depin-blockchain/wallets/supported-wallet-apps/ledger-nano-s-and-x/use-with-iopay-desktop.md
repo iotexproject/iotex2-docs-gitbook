@@ -40,7 +40,7 @@ You may be asked to “_Allow Ledger Manager_” on your device: do so by clicki
 
 In Ledger Live "**Manager"** section, select the “**App Catalog**” tab, find “_IoTeX_” among the apps  and click the “Install” button next to it:
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Follow the instructions in the Ledger Live software and on your device to complete the installation.&#x20;
 
@@ -55,7 +55,7 @@ To connect with your account on the IoTeX Ledger app follow the steps below:
 3. On your Ledger device **open the IoTeX App**&#x20;
 4. In the IoTeX Hub Portal, click the Ledger icon in the top right of the page to connect your Ledger:
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Select your Ledger from the browser list of connected devices:
 

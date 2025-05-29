@@ -4,7 +4,12 @@ The global machine economy is evolving rapidly — from DePIN devices to autonom
 
 ## Benefits of ioID
 
-**ioID** is designed to solve these challenges by enabling four foundational capabilities:
+**ioID** is designed to provide four foundational capabilities:
+
+* **A Unified on-chain Registry for Machines**
+* **Machines participation in DeFi via Machine-Bound Accounts (MBAs)**
+* **Autonomous Machines and AI Agents Interoperability**
+* **Verifiable Off-Chain Data for AI and beyond**
 
 <figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,17 +31,7 @@ Each machine receives a programmable smart wallet (MBA), linked to its identity 
 * stake, lend, or rent tokens
 * pay for services, or engage in DeFi—**without human intermediaries.**
 
-**3. Verifiable Off-Chain Data for AI and Beyond**
-
-As AI becomes more reliant on real-world data, data authenticity is critical. ioID enables machines to:
-
-* Collect and sign data with verifiable credentials
-* Prove liveness, location, or action via cryptographic proofs
-* Deliver trustworthy inputs to AI systems, DePIN protocols, and DAOs
-
-This opens the door to advanced applications like proof-of-work for data, decentralized inference, and machine-operated governance.
-
-**4. Autonomous Interoperability Between Agents (M2M / A2A)**
+**3. Autonomous Interoperability Between Agents (M2M / A2A)**
 
 In a future filled with **agent swarms, robotic fleets**, and **self-directed physical AI**, machines must interact directly—without relying on centralized brokers or human intermediaries.
 
@@ -45,6 +40,16 @@ ioID provides a secure identity framework for **machine-to-machine (M2M)** and *
 * Trustless collaboration
 * Permissionless coordination
 * Interoperable automation between autonomous systems
+
+**4. Verifiable Off-Chain Data for AI and Beyond**
+
+As AI becomes more reliant on real-world data, data authenticity is critical. ioID enables machines to:
+
+* Collect and sign data with verifiable credentials
+* Prove liveness, location, or action via cryptographic proofs
+* Deliver trustworthy inputs to AI systems, DePIN protocols, and DAOs
+
+This opens the door to advanced applications like proof-of-work for data, decentralized inference, and machine-operated governance.
 
 ## Looking Ahead
 

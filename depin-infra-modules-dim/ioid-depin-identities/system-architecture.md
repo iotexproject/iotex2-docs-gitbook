@@ -6,6 +6,8 @@ A high-level system architecture of ioID is illustrated in the figure below.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-05-20 at 12.07.40 PM.png" alt=""><figcaption><p>A High-Level Architecture of ioID</p></figcaption></figure>
 
+### Components of ioID
+
 ioID consists of the following core components:
 
 **Decentralized Identifier**\

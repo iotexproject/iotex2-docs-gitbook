@@ -40,7 +40,7 @@ You may be asked to “_Allow Ledger Manager_” on your device: do so by clicki
 
 In Ledger Live "**Manager"** section, select the “**App Catalog**” tab, find “_IoTeX_” among the apps  and click the “Install” button next to it:
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Follow the instructions in the Ledger Live software and on your device to complete the installation.&#x20;
 

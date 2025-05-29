@@ -20,7 +20,7 @@ This upgrade transitions each Pebble device identity, already registered on the 
 
 1. Make sure your **SIM card** is correctly installed in the SIM card slot of the device
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. If your device is turned on, **turn it off** by pressing the `Power/Confirm` button and keeping it pressed until the status LED flashes green:
 

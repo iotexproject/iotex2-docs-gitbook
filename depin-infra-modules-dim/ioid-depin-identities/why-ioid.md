@@ -6,7 +6,9 @@ The global machine economy is evolving rapidly — from DePIN devices to autonom
 
 **ioID** is designed to solve these challenges by enabling four foundational capabilities:
 
-**1. Global Discovery & Control Layer**
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**1. A Unified on-chain Registry for Machines: Global Discovery & Control Layer**
 
 A “Google for Machines”: ioID enables a universal registry of machines, smart agents, and physical AI. Each entity is assigned a globally unique, metadata-rich identity that bridges on-chain and off-chain ecosystems. This makes it possible to:
 

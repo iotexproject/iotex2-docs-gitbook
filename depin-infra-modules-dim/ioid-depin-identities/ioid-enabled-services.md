@@ -4,7 +4,7 @@
 
 Rewards are fully computed and distributed on the blockchain, based on physical work data provided by devices through the project’s data computation layer. This model ensures full transparency in the sense that the reward algorithm and the entire history of reward calculations and distributions are permanently and publicly accessible on-chain. With ioID in place, the reward distribution service can be realized as shown in the figure below.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Proof-of-Liveness (PoL) Service
 
@@ -14,7 +14,7 @@ A complete, immutable on-chain log that records connection and disconnection eve
 
 A ready-to-use staking contract tailored for DePIN projects, fully compatible with ioID. DePIN project participants who hold an ioID can stake the project’s native token and receive interest according to a set of staking rules configurable by the DePIN project. These include flexible options such as daily reward pool sharing, lock periods, and withdrawal grace periods. DePIN projects can leverage this staking service out of the box — no need to build their own contract. The only requirements: a valid project ID on ioID and users with registered ioID devices. The staking service can be implemented as shown in the figure below.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Financing Service
 

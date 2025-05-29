@@ -2,17 +2,38 @@
 
 ## ioID Identifier
 
-The ioID identifier is a DID structured as `did:io:identifier_string`. The `identifier_string` is derived from a unique `project_name` and `project_specific_device_identifier`(e.g., serial number, IMEI, MAC address, etc.).
+Each ioID is a Decentralized Identifier (DID) formatted as:
+
+```
+did:io:<identifier_string>
+```
+
+The identifier\_string is derived from a combination of:
+
+* A **unique project name**
+* A **project-specific device identifier** (e.g., serial number, IMEI, MAC address)
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-**ioID identifier Example**: did:io:5RJ1UfUCLX68KeFMmuvaVsm6m5Y7yH1bkF5CC4WpHXxa
+**Example**
 
-## DID Doc
+`did:io:5RJ1UfUCLX68KeFMmuvaVsm6m5Y7yH1bkF5CC4WpHXxa`
 
-The DID Document is a JSON-LD metadata structure associated with each ioID identifier. Stored securely on IPFS, it contains essential details such as public keys, authentication methods, device location, manufacturer details, and ownership information.
+This `did:io` format uniquely and immutably identifies a physical device in a decentralized manner.
 
-### DID Doc Example (without public key)
+## DID Document
+
+Each `did:io` identifier is associated with a **DID Document**, a JSON-LD metadata object stored securely on **IPFS**. The document describes key attributes of the device and its ownership.
+
+It may include:
+
+* Public keys or verification methods
+* Authentication and authorization settings
+* Device owner or controller information
+* Associated services (e.g., data feeds, project memberships)
+* Machine-bound account (MBA) references
+
+## DID Doc Example (Without Public Key)
 
 ```json
 {
@@ -46,7 +67,7 @@ The DID Document is a JSON-LD metadata structure associated with each ioID ident
 }
 ```
 
-### DID Doc Example (with public key)
+### DID Doc Example (With Public Key)
 
 ```json
 {
@@ -89,3 +110,9 @@ The DID Document is a JSON-LD metadata structure associated with each ioID ident
   ]
 }
 ```
+
+## Summary
+
+* `did:io` identifiers are **globally unique**, **decentralized**, and **resolvable** via IPFS-hosted DID Documents.
+* These documents define who **controls a device**, how it **authenticates**, and what **services or projects it belongs to**.
+* Public keys are optional but enable advanced use cases like **self-sovereign devices** or **on-device signing**.

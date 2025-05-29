@@ -6,7 +6,7 @@ The global machine economy is evolving rapidly — from DePIN devices to autonom
 
 **ioID** is designed to solve these challenges by enabling four foundational capabilities:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 **1. A Unified on-chain Registry for Machines: Global Discovery & Control Layer**
 

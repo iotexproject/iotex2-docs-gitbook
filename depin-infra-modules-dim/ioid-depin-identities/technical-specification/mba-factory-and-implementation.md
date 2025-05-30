@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # MBA Factory & Implementation
 
 The reference implementation of an MBA factory contract is available at https://eips.ethereum.org/EIPS/eip-6551#registry.

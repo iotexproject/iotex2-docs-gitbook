@@ -6,11 +6,11 @@ Integrating ioID is just a 3-step process for any project:
 2. Register any of your newly activated device on-chain.
 3. Send device data like health and location to depinscan.
 
-<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 The diagram below outlines the key stages for integrating ioID into a DePIN project—starting from one-time project registration, through device identity provisioning, to real-time data and DeFi interaction.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-05-23 at 18.35.38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2025-05-23 at 18.35.38.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 **Developers Quick Start** coming soon.

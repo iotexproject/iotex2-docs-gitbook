@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Example Use Cases
 
 At its core, **ioID** provides a decentralized identity framework for machines, smart agents, and physical AI, including:

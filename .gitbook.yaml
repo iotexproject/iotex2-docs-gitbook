@@ -1,6 +1,13 @@
 root: ./
 
 redirects:
-  the-iotex-stack/basic-concepts/address-conversion: builders/reference-docs/native-iotex-development/address-conversion.md
-  verifiable-data/pebble-tracker/quick-start: ecosystem/powered-by-iotex-devices/pebble-tracker/quick-start.md
-  developer/smart-contracts/issue-tokens: builders/defi/deploy-tokens/deploy-an-erc20-token.md
+  the-iotex-stack/basic-concepts/address-conversion: blockchain/build/reference-docs/native-iotex-development/address-conversion.md
+  verifiable-data/pebble-tracker/quick-start: blockchain/ecosystem/powered-by-iotex-devices/pebble-tracker/quick-start.md
+  developer/smart-contracts/issue-tokens: blockchain/build/defi/deploy-tokens/README.md
+  builders/web3-development/rpc-endpoints: blockchain/build/web3-development/rpc-endpoints.md
+  builders/web3-development/ioctl-cli/installation: blockchain/build/web3-development/ioctl-cli/installation.md
+  builders/depin/end-to-end-dewi-demo: blockchain/build/depin/end-to-end-dewi-demo.md
+  builders/defi/deploy-tokens/deploy-an-erc20-token: blockchain/build/defi/deploy-tokens/README.md
+  depin-infra-modules-dim/ioid-depin-identities/integration-guide: ioid/README.md
+  depin-infra-modules-dim/w3bstream-depin-verification/build-with-w3bstream: depin/iotex-depin-modules/w3bstream/w3bstream-depin-verification.md
+  builders/depin/end-to-end-dewi-demo/depin-incentives-contract: blockchain/build/depin/end-to-end-dewi-demo/depin-incentives-contract.md

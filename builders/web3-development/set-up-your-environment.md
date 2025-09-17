@@ -4,7 +4,7 @@
 
 Setting up your development environment for IoTeX involves choosing the right Web3 tools and frameworks to streamline your workflow.&#x20;
 
-Popular options include [Hardhat](https://hardhat.org/), [Truffle](https://www.trufflesuite.com/), and [Brownie](https://eth-brownie.readthedocs.io/en/stable/). These frameworks offer robust Dapp testing, deployment, and debugging capabilities. Once you are ready to deploy your smart contracts to the testnet or mainnet, you simply need to change the RPC endpoint in your tools configuration.&#x20;
+Popular options include [Hardhat](https://hardhat.org/), [Foundry (Forge)](https://getfoundry.sh/), and  [ApeFramework](https://www.apeworx.io/framework/). These frameworks offer robust Dapp testing, deployment, and debugging capabilities. Once you are ready to deploy your smart contracts to the testnet or mainnet, you simply need to change the RPC endpoint in your tools configuration.&#x20;
 
 [→ See IoTeX RPC Endpoints (full-node)](rpc-endpoints.md)
 
@@ -19,9 +19,8 @@ For detailed tutorials and guides on building and deploying smart contracts on I
 ## Development Frameworks
 
 1. [**Hardhat**](https://hardhat.org/): A flexible and extensible framework that helps developers compile, deploy, test, and debug their Ethereum software.
-2. [**Truffle**](https://www.trufflesuite.com/): A development environment, testing framework, and asset pipeline for Ethereum, aimed at making life as an Ethereum developer easier.
-3. [**Brownie**](https://eth-brownie.readthedocs.io/en/stable/): A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine (EVM).
-4. [**Foundry (Forge)**](https://getfoundry.sh/): A fast, portable, and modular toolkit for Ethereum application development. Forge is the command-line tool for Foundry, providing robust smart contract development and testing capabilities.
+2. [**ApeFramework**](https://www.apeworx.io/framework/): Ape Framework is an easy-to-use Web3 development tool. Users can compile, test, and interact with smart contracts all in one command line session. Ape supports multiple contract languages and chains.
+3. [**Foundry (Forge)**](https://getfoundry.sh/): A fast, portable, and modular toolkit for Ethereum application development. Forge is the command-line tool for Foundry, providing robust smart contract development and testing capabilities.
 
 ## Integrated Development Environments (IDEs)
 

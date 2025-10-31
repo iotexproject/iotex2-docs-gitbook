@@ -169,7 +169,7 @@ Or you can refer this repository [https://github.com/iotexproject/hardhat-verify
             network: "mainnet",
             chainId: 4689,
             urls: {
-              apiURL: "https://iotexscout.io/api",
+              apiURL: "https://iotexscan.io/api",
               browserURL: "https://iotexscan.io"
             }
           },
@@ -177,7 +177,7 @@ Or you can refer this repository [https://github.com/iotexproject/hardhat-verify
             network: "testnet",
             chainId: 4690,
             urls: {
-              apiURL: "https://testnet.iotexscout.io/api",
+              apiURL: "https://testnet.iotexscan.io/api",
               browserURL: "https://testnet.iotexscan.io"
             }
           }

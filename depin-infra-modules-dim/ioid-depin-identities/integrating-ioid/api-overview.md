@@ -1,5 +1,7 @@
 # API Overview
 
+**ioID** provides a set of APIs to facilitate integration of DePIN projects.
+
 The **ioID API** allows projects and developers to programmatically register, bind and manage ioID identities for machines. These endpoints support the full lifecycle of an ioID, from generation to ownership binding and data submission.
 
 Use the API to:

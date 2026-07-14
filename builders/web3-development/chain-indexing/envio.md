@@ -19,3 +19,4 @@ Point your indexer at IoTeX (chain ID 4689) by setting your own RPC as the data 
 * Learn more in the [HyperIndex overview](https://docs.envio.dev/docs/HyperIndex/overview?utm_source=iotex&utm_medium=partner-docs).
 * Configure networks and contracts with the [configuration file guide](https://docs.envio.dev/docs/HyperIndex/configuration-file?utm_source=iotex&utm_medium=partner-docs).
 * Deploy and scale with [Envio Cloud](https://docs.envio.dev/docs/HyperIndex/hosted-service?utm_source=iotex&utm_medium=partner-docs).
+* See Envio's indexing performance in the [benchmarks](https://docs.envio.dev/docs/HyperIndex/benchmarking?utm_source=iotex&utm_medium=partner-docs).

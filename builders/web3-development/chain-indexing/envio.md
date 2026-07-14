@@ -1,6 +1,6 @@
 # Envio
 
-Envio is a high-performance indexing framework that turns smart contract events into a queryable GraphQL API. Envio's HyperIndex natively supports indexing any EVM chain out of the box, so IoTeX developers can index their contracts using their own RPC as the data source.
+Envio is the data layer for blockchain apps. It gives IoTeX developers the fastest, most flexible way to get real-time and historical onchain data, from a single GraphQL API to raw high-speed access, with managed hosting on Envio Cloud. Envio's HyperIndex natively supports indexing any EVM chain out of the box, so IoTeX developers can index their contracts using their own RPC as the data source.
 
 ## Quick Start
 

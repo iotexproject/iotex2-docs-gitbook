@@ -89,3 +89,7 @@ curl -X POST https://archive-mainnet.iotex.io \
   "id": 1
 }'
 ```
+
+## RPC Latency Benchmark
+
+- [OpenChainBench](https://openchainbench.com/benchmarks/iotex-rpc) — live p50/p90/p99 latency leaderboard for free IoTeX RPC endpoints, updated every 60 s

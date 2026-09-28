@@ -1,5 +1,9 @@
 # Pebble Tracker
 
+{% hint style="warning" %}
+**MachineFi Portal status:** the portal has been discontinued. Its former account setup, data monetization, and DApp flows described in older Pebble materials are unavailable. Do not follow archived portal links or deposit funds for these flows.
+{% endhint %}
+
 ## Take Control of Your Data with Pebble!
 
 For the IoT to reach its full potential, the ability for anyone to verify that the underlying data and code are trustworthy **is paramount**. As our world becomes more digitized by the day, **Pebble Tracker** establishes a new standard for trust based on transparency, reliability, and verifiability.
@@ -12,14 +16,14 @@ Pebble is a breakthrough blockchain-powered device that captures physical world 
 
 ## Who is Pebble for? <a href="#who-is-pebble-for" id="who-is-pebble-for"></a>
 
-**Blockchain users** who own Pebble Trackers can register their devices to the IoTeX[ MachineFi Portal](http://portal.machinefi.com), fund their accounts, and start joining the new world of MachineFi Dapps and games to regain ownership of their data and start earning from providing it to third-party.
+**Existing Pebble owners** can use the current [device registration guide](device-registration.md) for supported registration steps. The former MachineFi Portal account and funding flow is discontinued.
 
-**Blockchain Developers** can use trusted data from Pebble devices in their smart contracts to build innovative _MachineFi_ decentralized applications (DApps), or to enforce business logic in a trusted way, extending verifiability from data to code (smart contracts).
+**Developers** can use Pebble's documented sensor and identity capabilities in their applications. Historical MachineFi DApp workflows that relied on the discontinued portal are no longer available.
 
 **Supply Chain developers** can use Pebble to establish a higher standard of **trust** for supply chain and transportation & logistics use cases with verifiable GPS, climate, motion, and light data. Pebble can serve as an **unbiased third party** in consortium scenarios where absolute trust is needed.
 
-**IoT developers** who want to prototype Blockchain-based solutions, can develop their custom firmware for Pebble Tracker and take advantage of a decentralized network to receive, verify, and archive device data, ready to be used in Blockchain applications.&#x20;
+**IoT developers** can develop custom firmware for Pebble Tracker and work with its sensor data and device identity features.
 
-## Interested building Pebble dApps? <a href="#interested-in-tech-specs" id="interested-in-tech-specs"></a>
+## Interested in Pebble technical details? <a href="#interested-in-tech-specs" id="interested-in-tech-specs"></a>
 
 [-> Check out how to use Pebble Tracker Data](query-pebble-data.md)

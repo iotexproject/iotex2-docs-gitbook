@@ -11,7 +11,7 @@ While IoTeX does not provide any Data Availability DIM, W3bstream will support p
 {% hint style="info" %}
 **Reference Implementation**
 
-A W3bstream-compatible DA Layer should implement a [simple interface](https://github.com/machinefi/sprout/blob/develop/datasource/datasource.go).
+A W3bstream-compatible DA Layer should implement a [simple interface](https://github.com/iotexproject/w3bstream/blob/develop/datasource/datasource.go).
 
-W3bstream provides a [reference implementation](https://github.com/machinefi/sprout/tree/develop/datasource) for a Postgres DB.
+W3bstream provides a [reference implementation](https://github.com/iotexproject/w3bstream/tree/develop/datasource) for a Postgres DB.
 {% endhint %}

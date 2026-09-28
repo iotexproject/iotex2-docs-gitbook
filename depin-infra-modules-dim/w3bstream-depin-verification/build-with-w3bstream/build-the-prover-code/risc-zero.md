@@ -64,7 +64,7 @@ cargo build --release
 The prover bytecode is saved in a file named `methods.rs` inside the `release` folder. The correct path is logged at the end of the build:
 
 ```sh
-warning: range-method@0.1.0: methods_path is: "/Users/simone/Source/GitHub/machinefi/sprout/examples/risc0-circuit/target/debug/build/range-method-2bec077ba5c1d7b6/out/methods.rs"
+warning: range-method@0.1.0: methods_path is: "/path/to/w3bstream/examples/risc0-circuit/target/debug/build/range-method-2bec077ba5c1d7b6/out/methods.rs"
 ```
 
 The `method.rs` file also includes the image ID of the prover that is needed by the verifier when verifying a proof:

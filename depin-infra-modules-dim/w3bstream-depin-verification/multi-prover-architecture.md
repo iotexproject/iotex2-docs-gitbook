@@ -37,7 +37,7 @@ The BYOP type of prover offers great flexibility for DePIN developers deploying 
 
 DePIN projects or infrastructure builders who are interested in integrating their custom prover must submit a PR with an independent gRPC service that implements two interfaces: `CreateRequest` and `ExecuteRequest`.&#x20;
 
-[→ You can find the proto files here.](https://github.com/machinefi/sprout/blob/develop/vm/proto/vm\_runtime.proto)
+[→ You can find the proto files here.](https://github.com/iotexproject/w3bstream/blob/develop/vm/proto/vm.proto)
 {% endhint %}
 
 {% hint style="info" %}

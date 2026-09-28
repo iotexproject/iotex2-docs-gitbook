@@ -24,7 +24,7 @@ The computation results and their ZK proofs are sent to our smart contract by W3
 * [Build a W3bstream prover using Risc0](../../../depin-infra-modules-dim/w3bstream-depin-verification/build-with-w3bstream/build-the-prover-code/risc-zero.md)
 * [Risc0 Verifier contract deployment on IoTeX Testnet](https://github.com/iotexproject/w3bstream/tree/develop/smartcontracts#deployment)
 * [Risc0 Verifier source code](https://github.com/iotexproject/w3bstream/blob/develop/examples/risc0-circuit/contract/RiscZeroGroth16Verifier.sol)
-* [Library to parse the Journal output created by our DeWi prover](https://github.com/machinefi/iotex-dewi-demo/tree/main/blockchain/contracts/lib)
+* [Library to parse the Journal output created by our DeWi prover](https://github.com/iotexproject/dewi-demo/tree/main/blockchain/contracts/lib)
 
 ```solidity
 // SPDX-License-Identifier: MIT

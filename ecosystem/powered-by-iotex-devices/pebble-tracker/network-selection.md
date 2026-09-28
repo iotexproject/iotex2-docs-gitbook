@@ -24,4 +24,6 @@ You can check the currently selected network on the display when Pebble is power
 
 <figure><img src="https://github.com/iotexproject/iotex-docs-gitbook/raw/master/.gitbook/assets/image%20(24)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
-To visualize the data collected by your devices, you can use the MachineFi portal. For data sent to the mainnet Oracle network will be available on [https://portal.machinefi.com](https://portal.machinefi.com/). If you selected the Testnet Network on your device, you should use [https://portal-testnet.machinefi.com](https://portal-testnet.machinefi.com/) instead.
+{% hint style="warning" %}
+The former MachineFi Portal dashboards for mainnet and testnet have been discontinued. The portal URLs previously listed here no longer provide a way to view Pebble data. This page only explains how to select the device's data network; it does not provide a replacement dashboard.
+{% endhint %}

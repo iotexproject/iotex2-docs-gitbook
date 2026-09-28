@@ -8,7 +8,7 @@ If your device shows version `v2.0` or higher, you are all set. In this case, pl
 
 ## Overview
 
-Please choose the firmware update method that best suits your situation and follow the corresponding instructions:
+The MachineFi Portal based online update flow has been discontinued. Use the USB update method below:
 
 {% hint style="success" %}
 **Method 1: Firmware Update over USB**
@@ -19,19 +19,7 @@ This method applies to any device, regardless of the registration status.
 * Proceed to [device-registration.md](../device-registration.md "mention")  guide to register your device
 {% endhint %}
 
-If you cannot perform a USB firmware update, please proceed with:
-
-{% hint style="success" %}
-**Method 2: Firmware Update Over The Internet**
-
-* Follow the [1.0-device-registration.md](1.0-device-registration.md "mention") guide if you **haven't registered** your Pebble Tracker
-* Follow the [firmware-update.md](../firmware-update.md "mention") guide to update the device firmware to v2.0
-* Proceed to [device-registration.md](../device-registration.md "mention")  guide to register your device
-{% endhint %}
-
-
-
-##
+If you cannot perform a USB firmware update, contact IoTeX support for current device support options. The former online method required the discontinued MachineFi Portal and is no longer available.
 
 <figure><img src="https://github.com/iotexproject/iotex-docs-gitbook/raw/master/.gitbook/assets/pebble-reg4.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -40,4 +28,3 @@ If you cannot perform a USB firmware update, please proceed with:
 {% hint style="success" %}
 Once the firmware update is complete, please move to the Device Registration
 {% endhint %}
-

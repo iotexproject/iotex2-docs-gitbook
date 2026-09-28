@@ -1,7 +1,7 @@
 # Pebble Tracker
 
 {% hint style="warning" %}
-**MachineFi Portal status:** the portal has been discontinued. Its former account setup, data monetization, and DApp flows described in older Pebble materials are unavailable. Do not follow archived portal links or deposit funds for these flows.
+**Portal status:** the former device portal has been discontinued. Its account setup, data monetization, and DApp flows described in older Pebble materials are unavailable. Do not follow archived portal links or deposit funds for these flows.
 {% endhint %}
 
 ## Take Control of Your Data with Pebble!
@@ -16,9 +16,9 @@ Pebble is a breakthrough blockchain-powered device that captures physical world 
 
 ## Who is Pebble for? <a href="#who-is-pebble-for" id="who-is-pebble-for"></a>
 
-**Existing Pebble owners** can use the current [device registration guide](device-registration.md) for supported registration steps. The former MachineFi Portal account and funding flow is discontinued.
+**Existing Pebble owners** can use the current [device registration guide](device-registration.md) for supported registration steps. The former portal account and funding flow is discontinued.
 
-**Developers** can use Pebble's documented sensor and identity capabilities in their applications. Historical MachineFi DApp workflows that relied on the discontinued portal are no longer available.
+**Developers** can use Pebble's documented sensor and identity capabilities in their applications. Historical DApp workflows that relied on the discontinued portal are no longer available.
 
 **Supply Chain developers** can use Pebble to establish a higher standard of **trust** for supply chain and transportation & logistics use cases with verifiable GPS, climate, motion, and light data. Pebble can serve as an **unbiased third party** in consortium scenarios where absolute trust is needed.
 

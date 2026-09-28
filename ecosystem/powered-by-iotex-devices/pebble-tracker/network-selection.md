@@ -25,5 +25,5 @@ You can check the currently selected network on the display when Pebble is power
 <figure><img src="https://github.com/iotexproject/iotex-docs-gitbook/raw/master/.gitbook/assets/image%20(24)%20(1)%20(1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-The former MachineFi Portal dashboards for mainnet and testnet have been discontinued. The portal URLs previously listed here no longer provide a way to view Pebble data. This page only explains how to select the device's data network; it does not provide a replacement dashboard.
+The former portal dashboards for mainnet and testnet have been discontinued. The portal URLs previously listed here no longer provide a way to view Pebble data. This page only explains how to select the device's data network; it does not provide a replacement dashboard.
 {% endhint %}

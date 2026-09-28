@@ -8,7 +8,7 @@ If your device shows version `v2.0` or higher, you are all set. In this case, pl
 
 ## Overview
 
-The MachineFi Portal based online update flow has been discontinued. Use the USB update method below:
+The portal-based online update flow has been discontinued. Use the USB update method below:
 
 {% hint style="success" %}
 **Method 1: Firmware Update over USB**
@@ -19,7 +19,7 @@ This method applies to any device, regardless of the registration status.
 * Proceed to [device-registration.md](../device-registration.md "mention")  guide to register your device
 {% endhint %}
 
-If you cannot perform a USB firmware update, contact IoTeX support for current device support options. The former online method required the discontinued MachineFi Portal and is no longer available.
+If you cannot perform a USB firmware update, contact IoTeX support for current device support options. The former online method required the discontinued portal and is no longer available.
 
 <figure><img src="https://github.com/iotexproject/iotex-docs-gitbook/raw/master/.gitbook/assets/pebble-reg4.jpg" alt=""><figcaption></figcaption></figure>
 

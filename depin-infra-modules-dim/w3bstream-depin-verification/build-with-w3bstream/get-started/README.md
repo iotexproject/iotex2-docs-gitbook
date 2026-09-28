@@ -43,7 +43,7 @@ Let's quickly describe the demo projects:
 
 Proves that a certain integer is in a certain range.
 
-[→ Source code](https://github.com/machinefi/sprout/tree/develop/examples/risc0-circuit)&#x20;
+[→ Source code](https://github.com/iotexproject/w3bstream/tree/develop/examples/risc0-circuit)&#x20;
 
 * `private_input: string` The value we want to prove is within the range, e.g. "7"
 * `public_input: string` Comma separated range endpoints, e.g. "3,9"
@@ -52,7 +52,7 @@ Proves that a certain integer is in a certain range.
 
 Given two input $$a$$ and $$b$$, compute the result $$4*a^2*b^2$$ and provide the proof.
 
-[→ Source code ](https://github.com/machinefi/sprout/tree/develop/examples/halo2-circuit)
+[→ Source code ](https://github.com/iotexproject/w3bstream/tree/develop/examples/halo2-circuit)
 
 * `private_a: integer` The first value
 * `private_b: integer` The second value
@@ -61,7 +61,7 @@ Given two input $$a$$ and $$b$$, compute the result $$4*a^2*b^2$$ and provide th
 
 Given three input $$a, b$$ and $$c$$, compute the result $$a+b$$ and provide the proof that $$a+b=c$$&#x20;
 
-[→ Source code ](https://github.com/machinefi/sprout/tree/develop/examples/zkwasm-circuit)
+[→ Source code ](https://github.com/iotexproject/w3bstream/tree/develop/examples/zkwasm-circuit)
 
 **Inputs:**&#x20;
 

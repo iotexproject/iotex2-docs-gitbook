@@ -17,7 +17,7 @@ While IoTeX does not provide any Data Sequencer DIM, W3bstream will support popu
 
 A W3bstream-compatible DA Layer should aggregate one ore multiple device messages into a [W3bstream Task](w3bstream-tasks.md) and store these tasks on a supported DA infra.
 
-W3bstream provides a [reference implementation](https://github.com/machinefi/sprout/tree/develop/cmd/sequencer) for a DePIN Sequencer for W3bstream that features:
+W3bstream provides a [reference implementation](https://github.com/iotexproject/w3bstream/tree/develop/cmd/sequencer) for a DePIN Sequencer for W3bstream that features:
 
 * message aggregation
 * ioID authentication

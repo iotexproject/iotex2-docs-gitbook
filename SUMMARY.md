@@ -164,6 +164,7 @@
     * [Blockchain interaction](builders/web3-development/ioctl-cli/blockchain-interaction/README.md)
       * [ioctl command reference](https://iotex.gitbook.io/new-docs/build/reference-docs/ioctl-client)
   * [Chain Indexing](builders/web3-development/chain-indexing/README.md)
+    * [Envio](builders/web3-development/chain-indexing/envio.md)
     * [The Graph](builders/web3-development/chain-indexing/the-graph.md)
     * [SubQuery](builders/web3-development/chain-indexing/subquery.md)
     * [IoTeX Analytics API](builders/web3-development/chain-indexing/iotex-analytics-api.md)

@@ -32,7 +32,7 @@ Join the ranks of the most skilled and ambitious developers in the IoTeX communi
 </details>
 
 {% hint style="info" %}
-Keep in mind that you'll have to **provide a link to your work**, so make sure you're happy with what you've done before moving on with the application. You can always reach out to our [**Discord Server**](https://discord.gg/iotex) with any question or for any support.
+Keep in mind that you'll have to **provide a link to your work**, so make sure you're happy with what you've done before moving on with the application. You can always reach out to our [**Discord Server**](https://iotex.io/discord) with any question or for any support.
 {% endhint %}
 
 Is your PoC ready to be shared with the world? 🎉

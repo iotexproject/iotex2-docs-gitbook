@@ -85,7 +85,7 @@ Start by creating an IoTeX wallet and funding it with test tokens.
 <pre class="language-bash"><code class="lang-bash"><strong>ioctl account createadd projectaccount
 </strong></code></pre>
 
-Note the `0x` wallet address provided. You can claim test IOTX tokens on the Developer portal at [https://developers.iotex.io/faucet](https://developers.iotex.io/faucet) or ask on our [developers channel on Discord](https://discord.gg/iotex).&#x20;
+Note the `0x` wallet address provided. You can claim test IOTX tokens on the Developer portal at [https://developers.iotex.io/faucet](https://developers.iotex.io/faucet) or ask on our [developers channel on Discord](https://iotex.io/discord).&#x20;
 
 Let's export the private key:
 

@@ -3,7 +3,7 @@
 Sometimes, it may be necessary to abandon a wallet account, such as when you suspect that your current wallet has been compromised or when rotating addresses for security purposes. In these situations, it’s crucial to ensure that all your assets are successfully migrated to your new wallet.
 
 {% hint style="warning" %}
-Please note that new types of assets and services are continually being added to the IoTeX ecosystem, and this guide is not intended to cover every scenario. If you have questions about migrating a specific asset or service to a new account, feel free to ask for assistance in our [Discord chat](https://discord.gg/iotex). &#x20;
+Please note that new types of assets and services are continually being added to the IoTeX ecosystem, and this guide is not intended to cover every scenario. If you have questions about migrating a specific asset or service to a new account, feel free to ask for assistance in our [Discord chat](https://iotex.io/discord). &#x20;
 {% endhint %}
 
 {% hint style="info" %}
